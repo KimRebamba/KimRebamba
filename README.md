@@ -1,25 +1,3 @@
-## Hi there, I'm Kim! 👋
+##
 
-I’m an IT student at the **Technological University of the Philippines (TUP–T)**.  
-I’m interested in **back-end development** and building apps with **database integration** (MySQL and beyond).  
-
-I don’t have a favorite programming language. It really just depends on *what kind of headache you want* :P  
-
-- 🔭 I’m currently working on **Java projects** and **PHP-based websites** for school  
-- 🌱 I’m currently learning **Web Development** (CMS, HTML, CSS, PHP), with a focus on **Bootstrap**  
-- 📫 Email me at: **kim.fernandezmail@gmail.com**
-  
-<!--
-**KimRebamba/KimRebamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+dramatic coder
