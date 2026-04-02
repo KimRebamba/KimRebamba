@@ -1,6 +1,11 @@
-
+<table border="0">
+<tr>
+<td valign="middle">
 
 dramatic coder
+
+</td>
+<td>
 
 <pre>
 ─▄▀─▄▀
@@ -10,3 +15,6 @@ dramatic coder
 ▀▄▄▄▄▄▀▀
 </pre>
 
+</td>
+</tr>
+</table>
