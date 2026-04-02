@@ -1,9 +1,12 @@
-<p>
-  <div>
-dramatic coder
-</div>
+<table style="border: none;">
+<tr style="border: none;">
+<td style="border: none; padding-right: 20px;" valign="middle">
 
-<div>
+**dramatic coder**
+
+</td>
+<td style="border: none;">
+
 <pre>
 ─▄▀─▄▀
 ──▀──▀
@@ -11,6 +14,7 @@ dramatic coder
 █░░░░░█─█
 ▀▄▄▄▄▄▀▀
 </pre>
-</div>
 
-</p>
+</td>
+</tr>
+</table>
